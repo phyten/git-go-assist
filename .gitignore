@@ -1,0 +1,9 @@
+# Binaries
+bin/
+
+# Vendor dependencies
+vendor/
+
+# build outputs
+*.exe
+*.out
